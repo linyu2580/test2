@@ -1,0 +1,13 @@
+# Vim临时文件
+*~
+*.swp
+*.swo
+*.un~
+
+# Windows 临时文件
+Thumbs.db
+Desktop.ini
+
+# Python临时文件
+_pycache_/
+*.pyc
